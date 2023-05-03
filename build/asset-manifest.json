@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gianfranco2605/react-app-restaurant/static/css/main.e0dda6cf.css",
+    "main.js": "/gianfranco2605/react-app-restaurant/static/js/main.6307349e.js",
+    "static/media/meals.jpg": "/gianfranco2605/react-app-restaurant/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/gianfranco2605/react-app-restaurant/index.html",
+    "main.e0dda6cf.css.map": "/gianfranco2605/react-app-restaurant/static/css/main.e0dda6cf.css.map",
+    "main.6307349e.js.map": "/gianfranco2605/react-app-restaurant/static/js/main.6307349e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0dda6cf.css",
+    "static/js/main.6307349e.js"
+  ]
+}
